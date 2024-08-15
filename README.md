@@ -1,4 +1,4 @@
-PowerShell script for copy policy groups from source user to destination user
+PowerShell script for changing "manager" attribute for a few users
 
 How to use?
 
